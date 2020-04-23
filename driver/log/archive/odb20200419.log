@@ -1,0 +1,58 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-19 13:34:52 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_01\BASE_DATOS\cliente.odb' is opened by 5392@LAPTOP-U5IALBPQ
+
+[2020-04-19 13:34:52 #2 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+[2020-04-19 13:34:52 #3 type] 
+Type objectdb_mantenimiento.InformeDeErrores is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-19 15:00:23 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_01\BASE_DATOS\clientes.odb' is opened by 16456@LAPTOP-U5IALBPQ
+
+[2020-04-19 15:00:29 #2 type.registry] 
+New type objectdb_mantenimiento.Cliente
+
+[2020-04-19 15:00:29 #3 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-19 15:03:36 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_01\BASE_DATOS\clientes.odb' has been recovered (tr. 1-7)
+
+[2020-04-19 15:03:36 #2 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_01\BASE_DATOS\clientes.odb' is opened by 17456@LAPTOP-U5IALBPQ
+
+[2020-04-19 15:03:36 #3 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+[2020-04-19 15:04:38 #4 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_01\BASE_DATOS\clientes.odb' is closed by 17456@LAPTOP-U5IALBPQ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-19 15:06:24 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_01\BASE_DATOS\clientes.odb' is opened by 7192@LAPTOP-U5IALBPQ
+
+[2020-04-19 15:06:24 #2 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-19 15:07:02 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_01\BASE_DATOS\cliente.odb' has been recovered (tr. 63-63)
+
+[2020-04-19 15:07:02 #2 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_01\BASE_DATOS\cliente.odb' is opened by 1848@LAPTOP-U5IALBPQ
+
+[2020-04-19 15:07:02 #3 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+[2020-04-19 15:07:20 #4 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_01\BASE_DATOS\cliente.odb' is closed by 1848@LAPTOP-U5IALBPQ
+

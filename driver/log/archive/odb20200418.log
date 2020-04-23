@@ -1,0 +1,98 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-18 14:18:14 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_00\BASE_DATOS\cliente.odb' is opened by 12568@LAPTOP-U5IALBPQ
+
+[2020-04-18 14:18:14 #2 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+[2020-04-18 14:18:14 #3 type.registry] 
+New type objectdb_mantenimiento.InformeDeErrores
+
+[2020-04-18 14:18:14 #4 type] 
+Type objectdb_mantenimiento.InformeDeErrores is not enhanced.
+
+[2020-04-18 14:18:26 #5 type.registry] 
+New type java.util.HashSet<java.lang.Object>
+
+[2020-04-18 14:18:26 #6 type.registry] 
+New type java.util.HashSet<objectdb_mantenimiento.InformeDeErrores>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-18 14:20:19 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_00\BASE_DATOS\cliente.odb' has been recovered (tr. 52-54)
+
+[2020-04-18 14:20:19 #2 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_00\BASE_DATOS\cliente.odb' is opened by 6032@LAPTOP-U5IALBPQ
+
+[2020-04-18 14:20:19 #3 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+[2020-04-18 14:20:19 #4 type] 
+Type objectdb_mantenimiento.InformeDeErrores is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-18 14:20:49 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_00\BASE_DATOS\cliente.odb' is opened by 3496@LAPTOP-U5IALBPQ
+
+[2020-04-18 14:20:50 #2 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+[2020-04-18 14:20:50 #3 type] 
+Type objectdb_mantenimiento.InformeDeErrores is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-18 14:23:30 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_00\BASE_DATOS\cliente.odb' is opened by 15748@LAPTOP-U5IALBPQ
+
+[2020-04-18 14:23:30 #2 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+[2020-04-18 14:23:30 #3 type] 
+Type objectdb_mantenimiento.InformeDeErrores is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-18 14:27:31 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_00\BASE_DATOS\cliente.odb' has been recovered (tr. 55-55)
+
+[2020-04-18 14:27:31 #2 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_00\BASE_DATOS\cliente.odb' is opened by 12980@LAPTOP-U5IALBPQ
+
+[2020-04-18 14:27:31 #3 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+[2020-04-18 14:27:31 #4 type] 
+Type objectdb_mantenimiento.InformeDeErrores is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-18 14:29:59 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_00\BASE_DATOS\cliente.odb' has been recovered (tr. 56-56)
+
+[2020-04-18 14:29:59 #2 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_00\BASE_DATOS\cliente.odb' is opened by 15728@LAPTOP-U5IALBPQ
+
+[2020-04-18 14:29:59 #3 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+[2020-04-18 14:29:59 #4 type] 
+Type objectdb_mantenimiento.InformeDeErrores is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-18 14:45:10 #1 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_01\BASE_DATOS\cliente.odb' has been recovered (tr. 57-57)
+
+[2020-04-18 14:45:10 #2 store] 
+Database 'E:\PROGRAMADOR WEB\2º CURSO DAM\AED\UT_05\PRACTICAS\OBJECTDB_ANGEL_01\BASE_DATOS\cliente.odb' is opened by 9996@LAPTOP-U5IALBPQ
+
+[2020-04-18 14:45:11 #3 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+[2020-04-18 14:45:11 #4 type] 
+Type objectdb_mantenimiento.InformeDeErrores is not enhanced.
+

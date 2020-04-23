@@ -1,0 +1,52 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-31 18:15:13 #1 store] 
+Database '/home/fer/NetBeansProjects/OBJECTDB_mantenimiento/BASE_DATOS/cliente.odb' is opened by 5358@FerVx
+
+[2020-03-31 18:15:21 #2 type.registry] 
+New type objectdb_mantenimiento.Cliente
+
+[2020-03-31 18:15:21 #3 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-31 18:16:51 #1 store] 
+Database '/home/fer/NetBeansProjects/OBJECTDB_mantenimiento/BASE_DATOS/cliente.odb' has been recovered (tr. 1-7)
+
+[2020-03-31 18:16:51 #2 store] 
+Database '/home/fer/NetBeansProjects/OBJECTDB_mantenimiento/BASE_DATOS/cliente.odb' is opened by 5392@FerVx
+
+[2020-03-31 18:16:51 #3 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-31 18:19:23 #1 store] 
+Database '/home/fer/NetBeansProjects/OBJECTDB_mantenimiento/BASE_DATOS/cliente.odb' has been recovered (tr. 8-11)
+
+[2020-03-31 18:19:23 #2 store] 
+Database '/home/fer/NetBeansProjects/OBJECTDB_mantenimiento/BASE_DATOS/cliente.odb' is opened by 5416@FerVx
+
+[2020-03-31 18:19:23 #3 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-31 18:33:32 #1 store] 
+Database '/home/fer/NetBeansProjects/OBJECTDB_mantenimiento/BASE_DATOS/cliente.odb' has been recovered (tr. 12-12)
+
+[2020-03-31 18:33:32 #2 store] 
+Database '/home/fer/NetBeansProjects/OBJECTDB_mantenimiento/BASE_DATOS/cliente.odb' is opened by 5752@FerVx
+
+[2020-03-31 18:33:32 #3 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-31 18:36:36 #1 store] 
+Database '/home/fer/NetBeansProjects/OBJECTDB_mantenimiento/BASE_DATOS/cliente.odb' is opened by 5829@FerVx
+
+[2020-03-31 18:36:36 #2 type] 
+Type objectdb_mantenimiento.Cliente is not enhanced.
+
